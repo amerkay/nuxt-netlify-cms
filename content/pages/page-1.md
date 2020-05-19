@@ -1,12 +1,8 @@
 ---
 title: Page Wa7ad
 description: Lorem ipsum dolor sit amet
-date: '2019-05-19T16:21:32+10:00'
 ---
-
-This is an example page.
-
-## An H2
+**Hi, This is V!**
 
 Duis aute excepteur reprehenderit nulla enim. Qui labore nulla excepteur mollit nisi minim nostrud eu dolore. Tempor irure id labore consectetur. Anim et eiusmod sint irure labore. Et ut et laboris ut mollit exercitation mollit ipsum exercitation nulla ea in pariatur aliquip.
 
