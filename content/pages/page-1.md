@@ -1,3 +1,8 @@
+---
+title: Page Wa7ad
+description: Lorem ipsum dolor sit amet
+date: '2019-05-19T16:21:32+10:00'
+---
 
 This is an example page.
 
